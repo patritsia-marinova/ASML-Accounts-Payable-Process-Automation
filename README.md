@@ -46,7 +46,6 @@ The workflow was developed as a proof of concept rather than implemented as a pr
 | Stakeholder Analysis | Power vs Interest Matrix |
 | Performance Measurement | KPI Definition |
 | Automation | Microsoft Power Automate, Conditions, Variables, Automated Notifications |
-| Testing | Workflow Testing, Scenario Validation |
 
 ## My Contribution
 
